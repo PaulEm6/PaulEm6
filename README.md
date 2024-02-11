@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently pursuing my Master's degree in Computer Science, specializing in Artificial Intelligence. With a passion for AI, I dedicate my time to studying and exploring various domains within the field. I am particularly interested in Deep Learning, Computer Vision, Reinforcement Learning, and Generative AI. On my Github I will be publishing my different projects in these different sections of AI, from the scripts that are used to explore different techniques to the projects that I work on. 
+I am currently pursuing my Master's degree in Computer Science, specializing in Artificial Intelligence. With a passion for AI, I dedicate my time to studying and exploring various domains within the field. I am particularly interested in Deep Learning, Computer Vision, Reinforcement Learning, and Generative AI. 
 
 ## My Projects
 
